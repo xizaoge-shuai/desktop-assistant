@@ -1,0 +1,15 @@
+# ninja log v6
+10	318	7684192901651816	C:/Users/jiazonghan/Desktop/PersonalAssistant/build/Desktop_Qt_6_9_0_MSVC2022_64bit-Release/CMakeFiles/cmake.verify_globs	79619040e4c3057b
+314	634	7684190952466002	C:/Users/jiazonghan/Desktop/PersonalAssistant/build/Desktop_Qt_6_9_0_MSVC2022_64bit-Release/PersonalAssistant_autogen/mocs_compilation.cpp	80ae5d2c8467e3ee
+314	634	7684190952466002	PersonalAssistant_autogen/timestamp	80ae5d2c8467e3ee
+314	634	7684190952466002	PersonalAssistant_autogen/mocs_compilation.cpp	80ae5d2c8467e3ee
+644	2011	7684190953199933	CMakeFiles/PersonalAssistant.dir/main.cpp.obj	ebe7a30963e8debe
+639	1967	7684190953149803	CMakeFiles/PersonalAssistant.dir/PersonalAssistant_autogen/mocs_compilation.cpp.obj	967cefdc29ac4465
+664	2018	7684190953399073	CMakeFiles/PersonalAssistant.dir/passwordmanager.cpp.obj	c857a108646d1a06
+314	634	7684190952466002	C:/Users/jiazonghan/Desktop/PersonalAssistant/build/Desktop_Qt_6_9_0_MSVC2022_64bit-Release/PersonalAssistant_autogen/timestamp	80ae5d2c8467e3ee
+659	2194	7684190953345759	CMakeFiles/PersonalAssistant.dir/remindermanager.cpp.obj	560ece1aa9971039
+654	2219	7684190953293975	CMakeFiles/PersonalAssistant.dir/financemanager.cpp.obj	138656df9bf2496a
+649	2436	7684190953246155	CMakeFiles/PersonalAssistant.dir/mainwindow.cpp.obj	a38c94b4e2d212bc
+2436	2611	7684190971125764	PersonalAssistant.exe	e04c23a0bd8c6272
+318	1024	7684192910186125	build.ninja	341b761d5da4adc7
+9	315	7684192910731514	C:/Users/jiazonghan/Desktop/PersonalAssistant/build/Desktop_Qt_6_9_0_MSVC2022_64bit-Release/CMakeFiles/cmake.verify_globs	79619040e4c3057b
